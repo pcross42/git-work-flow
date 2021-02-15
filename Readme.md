@@ -3,5 +3,8 @@ with an extra line
 or two
 try a third line as a feature
 and a next day fourth 
-skip to 6th
+and fifth with CMD
+skip to 6th with Desktop
+having resolved conflict in notepad
 try adding 7th before new ones arrive from CMD
+now resolved in Desktop. That's why branches.
