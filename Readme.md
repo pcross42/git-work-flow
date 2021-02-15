@@ -4,3 +4,5 @@ or two
 try a third line as a feature
 and a next day fourth 
 and fifth with desktop
+skip to 6th
+having resolved conflict in notepad
