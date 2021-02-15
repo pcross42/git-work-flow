@@ -9,3 +9,4 @@ having resolved conflict in notepad
 try adding 7th before new ones arrive from CMD
 now resolved in Desktop. That's why branches.
 8th: in local branch
+9th edited in cloud
