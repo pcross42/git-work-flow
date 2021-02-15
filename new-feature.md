@@ -145,3 +145,4 @@ Summary of actions:
 - You are now on branch 'feature/a-new-feature'
 
 git commit -am "updated new-feature with commands"
+git push origin feature/a-new-feature
